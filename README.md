@@ -11,6 +11,7 @@
 - `<link>` 태그를 이용한 외부 CSS 파일 삽입
 - `<iframe>` 태그
 - `<svg>` 파일
+- `display: none;` 스타일 적용으로 내용 숨기기
 
 ## ✔ 가능 Can's
 - 일반 태그 내 inline `style` attribute 사용
